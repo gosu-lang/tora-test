@@ -27,12 +27,12 @@
       <groupId>org.gosu-lang</groupId>
       <artifactId>tora</artifactId>
       <version>0.1-SNAPSHOT</version>
-      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>org.gosu-lang.gosu</groupId>
       <artifactId>gosu-core</artifactId>
       <version>${gosu.version}</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
