@@ -8,14 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="IntelliJ IDEA IU-143.2370.31" jdkType="IDEA JDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.gosu-lang.gosu:gosu-core-api:1.13.5" level="project" />
     <orderEntry type="library" name="Maven: org.gosu-lang.gosu.managed:gw-asm-all:5.0.4" level="project" />
     <orderEntry type="module-library">
       <library name="Maven: com.sun:tools:1.8.0">
         <CLASSES>
-          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/tools.jar!/" />
+          <root url="jar://C:/Program Files/Java/jdk1.8.0_91/lib/tools.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
