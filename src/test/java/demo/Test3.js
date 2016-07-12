@@ -2,10 +2,10 @@ class Test3 {
 
     // constructor definition
     constructor(a) {
-        this.foo = 42;
-        this.baz = a;
-        this._doh = 21;
-        this._poh = 84;
+        this.poh = 40;
+        this.doh = -40;
+        this.baz = 235;
+        this.foo = a;
     }
 
     // function definition
@@ -13,12 +13,12 @@ class Test3 {
     scottmckinneyIsmyhero() {
       return "foo"
     }
-    bar() {
-        return this.foo;
-    }
-
+//    bar() {
+//        return this.foo;
+//    }
+//
     fcal() {
-        return this.poh + this.doh
+        return "Fuck Cal " + this.poh + this.doh
     }
 
 
