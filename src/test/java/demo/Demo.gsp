@@ -6,7 +6,7 @@ print( ExampleProps.Property1 )
 
 // Demo javascript programs, including state
 
-print( JavascriptProgram.exampleFunction(  "Hello" ) )
+print( JavascriptProgram.exampleFunction( "Hello" ) )
 print( JavascriptProgram.nextNumber() )
 print( JavascriptProgram.nextNumber() )
 
@@ -19,11 +19,11 @@ print(x.displayName())
 
 // Demo javascript extension of java interface
 // Demo import statement
-//var runnable : Runnable = new ExtendsRunnable("foo")
+//var runnable : Runnable = new ImplementsRunnable("Hello Interop")
 //runnable.run()
 //
 // Demo javascript extension of gosu class
 // Demo super expression
 //
 //var ex : ExampleGosuClass = new ExtendsGosuClass()
-//ex.calculateTheAnswer()
+//print( ex.calculateTheAnswer() )
