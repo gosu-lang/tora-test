@@ -47,7 +47,7 @@ public class PluginTest {
 
   @Test
   function classDeclaration(){
-    var myClass = new ClassTest();
+    var myClass = new Test3();
     print(myClass.fcal());
 //    Assert.assertNotEquals(null, myClass);
   }

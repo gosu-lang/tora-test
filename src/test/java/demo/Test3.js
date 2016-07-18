@@ -1,4 +1,6 @@
-class Test3 {
+import java.util.ArrayList;
+
+class Test3 extends ArrayList{
 
     // constructor definition
     constructor(a) {
