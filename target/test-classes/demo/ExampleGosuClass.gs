@@ -4,5 +4,4 @@ class ExampleGosuClass{
   function calculateTheAnswer() : int {
     return 40
   }
-
 }

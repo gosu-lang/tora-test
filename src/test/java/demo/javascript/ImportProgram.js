@@ -1,5 +1,5 @@
 import java.lang.System;
 
-function bars () {
+function importAndPrint () {
     System.out.println("Hello from System.out.println()");
 }
