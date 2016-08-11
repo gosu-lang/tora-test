@@ -12,6 +12,6 @@ print( typeexample.returnsDouble(5.0) );
 
 
 //Type coercion section
-if(typeexample.doubleToStringReturnCoercion(5.0, 6.0) === String) {
+if(typeexample.doubleToStringReturnCoercionTest(5.0, 6.0) typeis String) {
     print("Succesfully converted to string");
 }
