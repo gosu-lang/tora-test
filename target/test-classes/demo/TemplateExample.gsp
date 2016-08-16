@@ -1,4 +1,5 @@
-uses demo.javascript.TemplateUser
 
-  var arr = {"Linus", "Hello"};
+var arr = {"Linus", "Max", "Victor", "Ed", "Uday"};
 print( demo.javascript.Template.renderToString(arr) );
+
+//print (demo.javascript.TemplateUser.fillStatementTemplate(arr));

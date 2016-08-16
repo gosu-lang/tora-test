@@ -1,5 +1,5 @@
 
-class JavascriptClass {
+class Person {
 
   constructor(firstName, lastName) {
     this._firstName = firstName
